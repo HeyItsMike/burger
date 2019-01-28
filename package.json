@@ -1,0 +1,28 @@
+{
+  "name": "nodeexpresshw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "burger.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyItsMike/burger.git"
+  },
+  "keywords": [
+    "burger",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Mike Wylie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyItsMike/burger/issues"
+  },
+  "homepage": "https://github.com/HeyItsMike/burger#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
